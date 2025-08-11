@@ -1,1 +1,3 @@
-will drop code later <3 
+This repository serves as a faithful mirror of the original HeavensGate website, archived for historical and research purposes. HeavensGate was a religious group that combined elements of science fiction, New Age philosophy, and apocalyptic beliefs, ultimately leading to a tragic event in 1997. This repo preserves the website's structure, text, media, and key documents as they were presented
+
+This project is intended to serve as an educational resource, offering a look into the group's digital presence and the impact of their teachings. The repository does not endorse or promote the beliefs of HeavensGate and should be viewed with an understanding of its tragic history.
